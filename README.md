@@ -23,6 +23,20 @@ Execution becomes reproducible.
 
 ---
 
+Live Architecture Interface (Command OS)
+
+Below is the Context Stack execution layer in action.
+
+The system compiles selected context objects, enforces deterministic rules, and routes execution to the active model.
+
+<img width="1512" height="982" alt="architecture-screenshot" src="https://github.com/user-attachments/assets/67c0054d-b4b0-41fc-a915-3df1c3cae44e" />
+
+
+
+
+
+
+
 ## The Structural Problem in Modern AI
 
 Current AI interfaces suffer from architectural limitations:
@@ -212,3 +226,7 @@ Commercial use, redistribution, implementation in commercial software, or creati
 This repository does not grant rights to reproduce, sell, sublicense, or deploy the described architecture in a commercial product without authorization.
 
 All rights reserved.
+
+
+<img width="1512" height="982" alt="Screenshot 2026-03-03 at 5 28 12 AM" src="https://github.com/user-attachments/assets/37224978-f4a8-4088-a51a-c00f0004a970" />
+
